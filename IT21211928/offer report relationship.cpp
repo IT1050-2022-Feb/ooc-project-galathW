@@ -54,6 +54,8 @@ class Reports{
 		};
 		
 };
+
+//main function
 int main (void)
 {
 	Offers *offer1 = new Offers("001","package 1");
